@@ -2,6 +2,11 @@
 
 This is a simple web application that generates cool-sounding names for various purposes. Whether you need a name for a new project, product, or anything else, this app has got you covered. The generated names are a combination of words that evoke a sense of innovation, uniqueness, and style.
 
+![image](https://github.com/Devakinandan23/Flutter_Dart/assets/92246269/2b221057-da36-43e4-91a0-b0dce40d7e6b)
+
+![image](https://github.com/Devakinandan23/Flutter_Dart/assets/92246269/9e30bc9a-a4de-46ab-886c-1abaf90b1af0)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
